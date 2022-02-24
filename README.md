@@ -1,2 +1,9 @@
 # Agenda_Django
-Agenda Simples em Django
+Simple Schedule in Django
+
+Resources
+
+- Login
+- Register
+- Dashboard
+- search
